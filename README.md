@@ -1,0 +1,2 @@
+# Hospital-Management-System
+In thıs project the admin can easily access the information of the hospital staff and the information of the patients.The program admin to easily add new employees, delete, list , sort employees, and edd new patients and delete the patient records. Another menu is the patient menu, where the patient can make a new appointment, view her current appointment, change the date of the appointment, or request medicine from the pharmacy.
